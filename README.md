@@ -1,0 +1,1 @@
+##### Repo used for storing my solutions to javascript.info's exercises
