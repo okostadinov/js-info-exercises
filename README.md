@@ -1,1 +1,1 @@
-##### Repo used for storing my solutions to javascript.info's exercises
+##### Repo used for storing my solutions to (https://javascript.info/)'s exercises
